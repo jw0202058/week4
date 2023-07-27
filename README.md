@@ -23,7 +23,9 @@
 
 ### MainMenuScene
 ```
-```
+![e2](https://github.com/jw0202058/week4/assets/121816472/6e052671-8db8-4960-86cd-a3e527d9fa97)
+![e1](https://github.com/jw0202058/week4/assets/121816472/b819e1fa-f39f-4aea-b1e8-6b096b282fff)
+
 * Dress
   * 내 캐릭터의 모습을 미리 볼 수 있고 커스터마이징 가능
   * 클릭 시 캐릭터 줌인, 줌아웃 가능

@@ -1,6 +1,6 @@
 # 🔥 MadCamp Week4
 
-## 🏃 쿠카런
+## 🏃 RUNNER LEARNER
 
 ## 🐯 팀원
 * 고려대학교 컴퓨터학과 21학번 조재원<br>

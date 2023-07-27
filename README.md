@@ -22,9 +22,8 @@
 * 인트로 화면이 끝나면 자동으로 MainMenuScene으로 넘어가며, 아무 키나 입력 시에도 넘어감
 
 ### MainMenuScene
-```
-![e2](https://github.com/jw0202058/week4/assets/121816472/6e052671-8db8-4960-86cd-a3e527d9fa97)
-![e1](https://github.com/jw0202058/week4/assets/121816472/b819e1fa-f39f-4aea-b1e8-6b096b282fff)
+<img src="https://github.com/jw0202058/week4/assets/121816472/6e052671-8db8-4960-86cd-a3e527d9fa97.png"  width="350" height="250"/>
+<img src="https://github.com/jw0202058/week4/assets/121816472/b819e1fa-f39f-4aea-b1e8-6b096b282fff.png"  width="350" height="250"/>
 
 * Dress
   * 내 캐릭터의 모습을 미리 볼 수 있고 커스터마이징 가능
@@ -45,12 +44,10 @@
 
 
 ### GameMap_Day
-
-![s1](https://github.com/jw0202058/week4/assets/121816472/8ab5b4f6-3ee9-47bc-a1ba-0bcdc5db8510)
-![s2](https://github.com/jw0202058/week4/assets/121816472/338687ed-7825-4321-a482-102202210b2c)
-![s3](https://github.com/jw0202058/week4/assets/121816472/50ba325c-ac3e-47c2-817c-db569729153a)
-![s4](https://github.com/jw0202058/week4/assets/121816472/543bd8a7-26b5-45a6-a96c-047d5c87d565)
-![s5](https://github.com/jw0202058/week4/assets/121816472/99c699fc-db73-43fb-8a08-9207072bb25d)
+<img src="https://github.com/jw0202058/week4/assets/121816472/8ab5b4f6-3ee9-47bc-a1ba-0bcdc5db8510.png"  width="350" height="250"/>
+<img src="https://github.com/jw0202058/week4/assets/121816472/338687ed-7825-4321-a482-102202210b2c.png"  width="350" height="250"/>
+<img src="https://github.com/jw0202058/week4/assets/121816472/543bd8a7-26b5-45a6-a96c-047d5c87d565.png"  width="350" height="250"/>
+<img src="https://github.com/jw0202058/week4/assets/121816472/99c699fc-db73-43fb-8a08-9207072bb25d.png"  width="350" height="250"/>
 
 
 * 게임의 Day 버전

@@ -48,7 +48,9 @@
 <img src="https://github.com/jw0202058/week4/assets/121816472/338687ed-7825-4321-a482-102202210b2c.png"  width="350" height="250"/>
 <img src="https://github.com/jw0202058/week4/assets/121816472/543bd8a7-26b5-45a6-a96c-047d5c87d565.png"  width="350" height="250"/>
 <img src="https://github.com/jw0202058/week4/assets/121816472/99c699fc-db73-43fb-8a08-9207072bb25d.png"  width="350" height="250"/>
+![s5](https://github.com/jw0202058/week4/assets/121816472/d40a3085-afd0-4da5-a4b0-bcd1416fc6a7)
 
+![s6](https://github.com/jw0202058/week4/assets/121816472/f674acc4-f76f-4c1e-871d-f8e5b1f2faf9)
 
 * 게임의 Day 버전
 * 여러 장애물과 트랙 등의 요소가 있으며, 보물 상자가 있는 곳에 도달 시 골인
@@ -63,6 +65,8 @@
 ### GameMap_Night
 ```
 ```
+![e3](https://github.com/jw0202058/week4/assets/121816472/f1c5f1c7-3e07-4c57-ae99-25971d1b2a1b)
+
 * 게임의 Night 버전
 * Day 버전과 요소는 동일하며, 맵을 밝히는 조명이 추가
 * 캐릭터의 앞을 밝혀 주는 조명이 추가

@@ -15,8 +15,8 @@
 여러가지 버전의 맵을 2분 30초 내에 통과
 
 ### Intro
-![intro_AdobeExpress](https://github.com/jw0202058/week4/assets/123575547/0393c01f-c882-4f73-9d6f-7c4a11c1295f)
-<img src="https://github.com/jw0202058/week4/assets/123575547/a0fa8fd6-09d2-403a-9939-e304ef17fb39.png"  width="300" height="200"/>
+<img src="https://github.com/jw0202058/week4/assets/123575547/0393c01f-c882-4f73-9d6f-7c4a11c1295f.png"  width="350" height="250"/>
+<img src="https://github.com/jw0202058/week4/assets/123575547/a0fa8fd6-09d2-403a-9939-e304ef17fb39.png"  width="350" height="250"/>
 
 * 고려대학교를 배경으로 하는 맵의 전체적인 뷰를 감상
 * 인트로 화면이 끝나면 자동으로 MainMenuScene으로 넘어가며, 아무 키나 입력 시에도 넘어감
@@ -39,7 +39,7 @@
   * 게임을 시작하는 버튼
 
 ### LoadingScene
-![loading_AdobeExpress](https://github.com/jw0202058/week4/assets/123575547/4ba459a0-c6f6-4460-b119-1eca1be8c6fb)
+<img src="https://github.com/jw0202058/week4/assets/123575547/4ba459a0-c6f6-4460-b119-1eca1be8c6fb.png"  width="350" height="250"/>
 
 
 ### GameMap_Day

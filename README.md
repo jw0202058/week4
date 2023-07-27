@@ -44,6 +44,12 @@
 
 ### GameMap_Day
 ```
+![s1](https://github.com/jw0202058/week4/assets/121816472/8ab5b4f6-3ee9-47bc-a1ba-0bcdc5db8510)
+![s2](https://github.com/jw0202058/week4/assets/121816472/338687ed-7825-4321-a482-102202210b2c)
+![s3](https://github.com/jw0202058/week4/assets/121816472/50ba325c-ac3e-47c2-817c-db569729153a)
+![s4](https://github.com/jw0202058/week4/assets/121816472/543bd8a7-26b5-45a6-a96c-047d5c87d565)
+![s5](https://github.com/jw0202058/week4/assets/121816472/99c699fc-db73-43fb-8a08-9207072bb25d)
+
 ```
 * 게임의 Day 버전
 * 여러 장애물과 트랙 등의 요소가 있으며, 보물 상자가 있는 곳에 도달 시 골인

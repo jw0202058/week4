@@ -39,8 +39,7 @@
   * 게임을 시작하는 버튼
 
 ### LoadingScene
-```
-```
+![loading_AdobeExpress](https://github.com/jw0202058/week4/assets/123575547/4ba459a0-c6f6-4460-b119-1eca1be8c6fb)
 
 
 ### GameMap_Day

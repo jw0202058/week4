@@ -15,9 +15,9 @@
 여러가지 버전의 맵을 2분 30초 내에 통과
 
 ### Intro
-```
-인트로 화면? 화면 녹화 해야 되나
-```
+![intro_AdobeExpress](https://github.com/jw0202058/week4/assets/123575547/0393c01f-c882-4f73-9d6f-7c4a11c1295f)
+![intro_AdobeExpress (1)](https://github.com/jw0202058/week4/assets/123575547/a0fa8fd6-09d2-403a-9939-e304ef17fb39)
+
 * 고려대학교를 배경으로 하는 맵의 전체적인 뷰를 감상
 * 인트로 화면이 끝나면 자동으로 MainMenuScene으로 넘어가며, 아무 키나 입력 시에도 넘어감
 
